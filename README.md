@@ -19,7 +19,7 @@ composer require vlucas/phpdotenv (run it)
 
 # DATABASE QUERIES:
 ```sql
-CREATE DATABASE `test_db` CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+CREATE DATABASE `company` CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 CREATE TABLE `departments` (
   `id` INT(11) NOT NULL AUTO_INCREMENT, 
