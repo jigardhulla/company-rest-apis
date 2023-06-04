@@ -15,6 +15,8 @@ composer: latest
 
 composer require vlucas/phpdotenv (run it)
 
+#### Note: You can use xampp or any other way to do server setup first before going ahead.
+
 Once setup is done. You can follow below documentation link to access apis:
 
 ### https://documenter.getpostman.com/view/27790542/2s93sW9vTB
