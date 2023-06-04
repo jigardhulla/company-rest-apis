@@ -15,6 +15,8 @@ composer: latest
 
 composer require vlucas/phpdotenv (run it)
 
+add .env file on root directory with DB_HOST, DB_USERNAME and DB_PASSWORD.
+
 #### Note: You can use xampp or any other way to do server setup first before going ahead.
 
 # DATABASE QUERIES:
